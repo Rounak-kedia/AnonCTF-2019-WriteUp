@@ -5,7 +5,7 @@
 
 **Problem Statement:**
 
->I am sure only one member from our Telegram Group can help you find the flag. [Join](join) here.
+>It’s Star Wars time again, and you found a hidden message from R2D2, it supposedly can be decrypted of the Dark Force, help the Resistance to decode the message
 >
 > ![Attached Image](eighthcircleofhell.png)
 
