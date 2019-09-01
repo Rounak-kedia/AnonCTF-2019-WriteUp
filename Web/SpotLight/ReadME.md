@@ -1,6 +1,6 @@
 # AnonCTF_2019: Spotlight
 
-**Category:** Miscellanous
+**Category:** Web
 **Points:** 10
 
 **Problem Statement:**
