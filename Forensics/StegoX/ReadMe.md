@@ -1,6 +1,7 @@
 # AnonCTF_2019: StegoX
 
 Category: Forensics
+
 Points: 40
 
 Problem Statement:
