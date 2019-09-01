@@ -15,4 +15,4 @@ The wegbapge says that only the anonCTFadmin is allowed
 
 Download a cookie editor like EditThisCookie and change the cookie to anonCTFadmin
 
-Flag : 	anonCTF{D0U8lE_CH0Co_chIp}
+Flag : 	`anonCTF{D0U8lE_CH0Co_chIp}
