@@ -5,7 +5,7 @@ Points: 30
 
 Problem Statement:
 
-What happens when 64 brains work together?
+>What happens when 64 brains work together?
 
 ## Write-Up
 
@@ -15,4 +15,4 @@ Run a script to get the brainfuck characters like <,>,!,etc. from the base64 cha
 
 Use an online interpreter to decrypt brainfuck
 
-Flag : anonCTF{P1$S3D_Off_C0mp1leR5}
+Flag : `anonCTF{P1$S3D_Off_C0mp1leR5}`
