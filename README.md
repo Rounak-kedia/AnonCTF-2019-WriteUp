@@ -22,3 +22,4 @@ Write-Up for CTF contest conducted by Anonymous Club of B.M.S.C.E
     
 * **Forensics**
     - [Eight Circles of Hell](Forensics/Eight_Circles_of_hell)
+    - [Mario's secret](Forensics/Marios_secret)
