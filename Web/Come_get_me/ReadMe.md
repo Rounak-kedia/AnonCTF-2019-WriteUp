@@ -12,7 +12,7 @@ Problem Statement:
 
 ## Write-Up
 
-All hints in the question point to a variable called flag in the backend php code
+All hints in the question point to a variable called flag in the backend php code being false by default
 
 Change the variable flag to true as follows
 
