@@ -1,6 +1,7 @@
 # AnonCTF_2019: DouBle Trouble
 
 Category: Web
+
 Points: 50
 
 Problem Statement:
