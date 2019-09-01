@@ -1,4 +1,4 @@
-# AnonCTF_2019: Come get me
+# AnonCTF_2019: I love Cookies!
 
 **Category:** Web
 **Points:** 20
