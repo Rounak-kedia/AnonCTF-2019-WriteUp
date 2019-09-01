@@ -13,7 +13,7 @@
 
 The title has a hint towards the content of the strange image attached. 
 Eight Circles of Hell is the name given to Malbolge after its crazy twisted
-syntax.
+syntax.(Googling 'Eight Circles of hell' will reveal this)
 
 The image is actually a code written in another esoteric language piet.
 
