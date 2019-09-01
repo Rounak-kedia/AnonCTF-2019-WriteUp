@@ -18,4 +18,4 @@ The hash in the comment is a common md5 hash
 
 decrypt the md5 hash to get 'bleh' as the password and enter it in the textbox
 
-Flag : anonCTF{md5_H4Sh_FunC7iOn}
+Flag : `anonCTF{md5_H4Sh_FunC7iOn}`
