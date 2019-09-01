@@ -6,8 +6,10 @@
 
 ## Problem Statement:
 
->After a trip to the server with her pets, Coco found one of them to be missing. She doesn't exactly remember which one it is. >Can you help her?
-
+>After a trip to the server with her pets, Coco found one of them to be missing. She doesn't exactly remember which one it is. 
+>
+>Can you help her?
+>
 >[Start here](https://anonctf.000webhostapp.com/)
 
 ## Write-Up
