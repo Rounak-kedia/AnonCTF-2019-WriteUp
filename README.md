@@ -15,4 +15,4 @@ Write-Up for CTF contest conducted by Anonymous Club of B.M.S.C.E
     - [LOLCrypt](Cryptography/LOLCrypt)
    
 * **Web**
-    - [Come get me](Cryptography/LOLCrypt)
+    - [Come get me](Web)
