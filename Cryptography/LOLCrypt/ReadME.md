@@ -22,6 +22,6 @@ eg. for `a` ascii value is 97 then 255-97=158(sum)
 
 Hence, the algorithm is simply taking a letter subtracting its ascii value from 255 and randomly splitting that no in 4.
 
-Now, as we know how the algo works we can break the code using a simple [script](Solution.py) or you can solve it by hand.
+Now, as we know how the algo works we can break the code using a simple [script](Solution.py) or you can solve it by hand ;)
 
 The Flag is  `anonCTF{Cu5t0m_Cr7pt0_@r6_Fun}` 
