@@ -22,7 +22,7 @@ Write-Up for CTF contest conducted by Anonymous Club of B.M.S.C.E
     - [Spotlight](Web/SpotLight)
     - [You Can't See Me](Web/You_Can't_See_Me)
     - [Lost in the server](Web/Lost_in_the_server)
-    - [DouBle trouble](Web/DouBle_trouble)
+    - [DouBle trouble](Web/Double_trouble)
     - [Memory disorders](Web/Memory_disorders)
     - [I love cookies!](Web/I_love_cookies!)
     
