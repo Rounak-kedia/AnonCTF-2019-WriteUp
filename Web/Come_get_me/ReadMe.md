@@ -18,4 +18,4 @@ Change the variable flag to true as follows
 
 url/?flag=true
 
-Flag : anonCTF{8oOLEAn_Fl4G}
+Flag : `anonCTF{8oOLEAn_Fl4G}`
