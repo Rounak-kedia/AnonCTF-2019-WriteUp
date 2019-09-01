@@ -22,4 +22,4 @@ Exploit the table queer as follows
 
 Use the input <' union select * from queer#>
 
-Flag : anonCTF{5qL_InJecT3D}
+Flag : `anonCTF{5qL_InJecT3D}`
