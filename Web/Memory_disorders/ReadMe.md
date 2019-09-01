@@ -1,10 +1,10 @@
 # AnonCTF_2019: Memory Disorders
 
-Category: Web
+**Category:** Web
 
-Points: 10
+**Points:** 10
 
-Problem Statement:
+**Problem Statement:**
 
 >Memory Disorders have caused 5 patients to lose their passwords to this website. Try logging in for any one of them.
 >
@@ -12,7 +12,7 @@ Problem Statement:
 
 ## Write-Up
 
-View page source
+View page source.
 
 The hash in the comment is a common md5 hash
 
