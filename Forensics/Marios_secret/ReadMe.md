@@ -6,7 +6,8 @@
 
 ## Problem Statement:
 
->Mario is stuck in an 8x8 square prison. It is upto you to help him break out. In exchange for helping him, he promises to tell you >a secret.
+>Mario is stuck in an 8x8 square prison. It is upto you to help him break out. In exchange for helping him, he promises to tell you a secret.
+>
 >[Mario's secret](https://drive.google.com/drive/folders/1oIiWaukmxvl4AZWQlFv_UUzWN8oS5LeP?usp=sharing)
 
 ## Write-Up
