@@ -1,9 +1,9 @@
 # AnonCTF_2019: Admin's rotations
 
-Category: Cryptography
-Points: 29
+**Category:** Cryptography
+**Points:** 29
 
-Problem Statement:
+**Problem Statement:**
 
 >Since the computer generated flag was thought to be unsafe, the admin rotated it first by 5 and then by 8.
 >
