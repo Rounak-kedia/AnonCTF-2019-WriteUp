@@ -1,9 +1,9 @@
 # AnonCTF_2019: Angry
 
-Category: Cryptography
-Points: 30
+**Category:** Cryptography
+**Points:** 30
 
-Problem Statement:
+**Problem Statement:**
 
 >What happens when 64 brains work together?
 
