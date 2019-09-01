@@ -10,6 +10,7 @@ Write-Up for CTF contest conducted by Anonymous Club of B.M.S.C.E
     - [Telegram Group](Miscellaneous/Telegram_Group)  
     - [A Wierd C Program](Miscellaneous/A_Wierd_C_Program)
     - [BitCoin](Miscellaneous/BitCoin)
+    - [Square](Miscellaneous/Square)
 
 * **Cryptography**
     - [LOLCrypt](Cryptography/LOLCrypt)
