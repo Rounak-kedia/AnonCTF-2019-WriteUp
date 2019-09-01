@@ -14,7 +14,7 @@ Write-Up for CTF contest conducted by Anonymous Club of B.M.S.C.E
 
 * **Cryptography**
     - [LOLCrypt](Cryptography/LOLCrypt)
-    - [Admin's rotations(Cryptography/Admins_rotations)
+    - [Admin's rotations](Cryptography/Admins_rotations)
     - [Angry](Cryptography/Angry)
    
 * **Web**
