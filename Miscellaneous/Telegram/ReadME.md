@@ -1,4 +1,4 @@
-# AnonCTF_2019: 
+# AnonCTF_2019: Telegram
 
 **Category:** Miscellaneous
 **Points:** 5
