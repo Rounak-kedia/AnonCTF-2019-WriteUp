@@ -9,7 +9,7 @@
 
 ## Write-Up
 
-When you look at the given C program, you will find something weird with it's formatting and indentation.
+When you look at the given C program, you will find something wierd with it's formatting and indentation.
 Actually it's not a C program but a white-space program.Use any online interpreter to execute the file.
 Doing this gives you the output `the_flag_is_WpUAItsadmhak`
 
