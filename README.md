@@ -18,3 +18,6 @@ Write-Up for CTF contest conducted by Anonymous Club of B.M.S.C.E
 * **Web**
     - [Come get me](Web/Come_get_me)
     - [Spotlight](Web/SpotLight)
+    
+* **Forensics**
+    - [Eight Circles of Hell](Forensics/Eight_Circles_of_hell)
