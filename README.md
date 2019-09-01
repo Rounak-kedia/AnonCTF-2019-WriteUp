@@ -16,9 +16,9 @@ Write-Up for CTF contest conducted by Anonymous Club of B.M.S.C.E
     - [LOLCrypt](Cryptography/LOLCrypt)
     - [Admin's rotations](Cryptography/Admins_rotations)
     - [Angry](Cryptography/Angry)
-    - [X3 Committee](Cryptography/X3_Committee)
-    - [Roman Meets Italian](Cryptography/Roman_Meets_Italian)
-    - [Shrieking Banshee](Cryptography/Shrieking_Banshee)
+    - [X3 Committee](Cryptography/X3\ Committee)
+    - [Roman Meets Italian](Cryptography/Roman\ Meets\Italian)
+    - [Shrieking Banshee](Cryptography/Shrieking\ Banshee)
    
 * **Web**
     - [Come get me](Web/Come_get_me)
