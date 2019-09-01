@@ -1,16 +1,16 @@
 # AnonCTF_2019: StegoX
 
-Category: Forensics
+**Category:** Forensics
 
-Points: 40
+**Points:** 40
 
-Problem Statement:
+## Problem Statement:
 
-Looks like Thalaiva has something to say. "Naan oru thadave sonna nooru thadave sonna madhiri."
-
-Hint : odd number of 1's gives 1 else 0. Play around with network graphics.
-
-(Append final flag inside the usual format)
+>Looks like Thalaiva has something to say. "Naan oru thadave sonna nooru thadave sonna madhiri."
+>
+>Hint : odd number of 1's gives 1 else 0. Play around with network graphics.
+>
+>(Append final flag inside the usual format)
 
 ## Write-Up
 
@@ -22,4 +22,4 @@ Convert the hex into an image file to get a qr code
 
 scan the qr code for the flag
 
-Flag : anonCTF{Y0ur_Br3atht4kinG}
+Flag : `anonCTF{Y0ur_Br3atht4kinG}`
