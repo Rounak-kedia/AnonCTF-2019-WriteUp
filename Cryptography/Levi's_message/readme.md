@@ -28,7 +28,7 @@ what we know about RSA:<br>
 >->Private components are therefore p, q, d and phi(N)<br>
 >->Public components are therefore e and N<br>
 
-One can write a python script for the <b>chinese remainder theorem</br> to find the orignal message in less time.
+One can write a python script for the <b>chinese remainder theorem</b></br> to find the orignal message in less time.
 >The orignal message is: https://anonctfsare-cool.000webhostapp.com/
 
 Visit the site to get the flag as :<br>
