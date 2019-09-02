@@ -17,9 +17,10 @@ You can run the following command for more info.
 
 <h4>STEP 1</h4>
 
-> First lets analyze on  what type of system image has been taken<BR>
+> First lets analyze on  what type of system, image has been taken<BR>
    
    ![Attached Image](Capture.PNG)
+
 
 <P>It shows profile as <B>WinXPSP2x86</B> , keep that in mind</P>
 
@@ -27,4 +28,14 @@ You can run the following command for more info.
 
 > Lets see what are the running processes in the system
   
-  ![Attached Image](Capture2.PNG)
+   ![Attached Image](Capture2.PNG)
+ 
+<P>There are no suspicious processes running except <B>IEXPLORE.EXE</B> having process id 1340 and 1396</P>
+ 
+<h4>STEP 3</h4>
+ 
+ >We'll check the history of internet explorer
+ 
+   ![Attached Image](Capture3.PNG)
+   
+ 
