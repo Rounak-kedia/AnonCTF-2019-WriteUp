@@ -24,7 +24,7 @@ You can run the following command for more info.
 
 <P>It shows profile as <B>WinXPSP2x86</B> , keep that in mind</P>
 
-<h4>STEP 2</h>
+<h4>STEP 2</h4>
 
 > Lets see what are the running processes in the system
   
@@ -37,5 +37,14 @@ You can run the following command for more info.
  >We'll check the history of internet explorer
  
    ![Attached Image](Capture3.PNG)
-   
  
+   ![Attached Image](Capture4.PNG)
+  
+ 
+<h4>STEP 4</h4>
+ 
+ >lets visit the site and see whats there
+ 
+   ![Attached Image](Capture5.PNG)
+
+There's the flag we want <B>anonCTF{MY-m3m0ry_1$_w3@k}</B>
