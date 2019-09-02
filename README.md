@@ -20,7 +20,7 @@ Write-Up for CTF contest conducted by Anonymous Club of B.M.S.C.E
     - [Roman Meets Italian](Cryptography/Roman_Meets_Italian)
     - [Shrieking Banshee](Cryptography/Shrieking_Banshee)
     - [Hakuna Matata](Cryptography/Hakuna_Matata)
-    - [Levi's Message(Removed)](Cryptography/Levi's_Message)
+    - [Levi's Message(Removed)](Cryptography/Levi's_message)
    
 * **Web**
     - [Come get me](Web/Come_get_me)
