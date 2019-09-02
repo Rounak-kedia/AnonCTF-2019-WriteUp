@@ -27,7 +27,7 @@ We are given a image where clearly AES CBC cipher has been implemented.In case y
 
  <h5>Step 1:Get the AES key</h5>
  
- <p>We know the second ciphertext block, the plaintext and parts of the first block of ciphertext. Therefore we can brute force the key's last three characters by decrypting the second block of ciphertext with all possible keys, xoring with the first block of ciphertext (the unknown parts padded by zeros) and see, for which key the first letter and last two letters of the result match to the original plaintext.</P>
+ <p>We know the second ciphertext block, the plaintext and parts of the first block of ciphertext. Therefore we can brute force the key's last three characters by decrypting the second block of ciphertext with all possible keys, xoring with the first block of ciphertext (the unknown parts padded by zeros) and see, for which key the first letter and last three letters of the result match to the original plaintext.</P>
 
 ```python
 from Crypto.Cipher import AES
