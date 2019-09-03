@@ -21,7 +21,7 @@ We can do it by writing a Script on Linux or,by using a tool found [here](https:
 After doing that we observe that these images have been spiltted from a bigger image into smaller parts.
 
 Also in the question it was mentioned that `its a square` which was a hint to indicate that the final image is a square(20*20=400).
-We can join the images using an online [tool](https://www.filesmerge.com/merge-images).
+We can join the images using image magick or an online [tool](https://www.filesmerge.com/merge-images).
 But this tool takes a limited no of image files at time.
 So we upload 80 images at time,we merge them horizontally with a column limit of 20.
 We do this 5 times to get all the five parts.(The Website stores cookies which limit us to 2 free uses.Simply clear cookies to continue)
