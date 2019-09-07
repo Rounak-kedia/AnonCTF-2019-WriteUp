@@ -5,7 +5,8 @@
 
 **Problem Statement:**
 
->What happens when 64 brains work together?
+>What happens when 64 brains work together?<br>
+><A href = "https://drive.google.com/open?id=1KJ4Pi_QQGCTAEvS4sGeW9scBQgZxprMg">questionTxt</A>
 
 ## Write-Up
 
